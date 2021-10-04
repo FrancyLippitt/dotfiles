@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lippittfranziska@gmail.com
+	name = Franziska Lippitt
